@@ -5,4 +5,4 @@
 >
 - # **orthologous**
 >> 
-- ## Where the homology is the result of speciation so that the history of the gene reflects the history of the species (for example alpha hemoglobin in man and mouse) the genes should be called **orthologous** (ortho = exact).
+- ## Where the homology is the result of speciation so that the history of the gene reflects the history of the species (for example, alpha hemoglobin in man and mouse), the genes should be called **orthologous** (ortho = exact).
